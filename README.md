@@ -1,36 +1,45 @@
-## hello world! 😉 Eu sou Gilnei Lima.
+# Hello world! 😉 Eu sou Gilnei Lima.
+## 🧗‍♂️ Um Dev em desenvolvimento. 🏋️
 
 <div style="display: flex">
-<img src = "https://komarev.com/ghpvc/?username=gilneilima&label=Profile%20views&color=gray" alt="gilneilima"  style="float:right, margin-right:10px"/>
-<img src="https://img.shields.io/github/followers/gilneilima?label=Follow&color=gray" alt="gilneilima" style="float:left" />
+  <img src = "https://komarev.com/ghpvc/?username=gilneilima&label=Profile%20views&color=gray" alt="gilneilima"  style="float:right, margin-right:10px"/>
+  <img src="https://img.shields.io/github/followers/gilneilima?label=Follow&color=gray" alt="gilneilima" style="float:left" />
 </div>
 </br>
 
 <div>
   <a href="https://github.com/gilneilima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gilneilima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilneilima&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gilneilima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilneilima&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: inline_block"><br>
+  
+  #### Em aprendizado:
+  
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">    
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="PostgreeSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  
 </div>
 
 ##
   
-<div> 
-  <a href="https://instagram.com/gilneilima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gilneilima.rj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gilnei-lima-64468a104" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.linkedin.com/in/gilnei-lima-64468a104" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gilnei-lima-64468a104" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-</br>
+  
+##
 
+> 📚 Residente do SERRATEC - Programa de Residência Tecnológica da Região Serrana-RJ.<br>
 > 🎓 Bacharel em Sistemas de Informação pela Faculdade de Filosofia, Ciências e Letras de Duque de Caxias - FFCLDC.<br>
-> 📚 Residente do Programa de Residência Tecnológica da Região Serrana-RJ. SERRATEC.<br>
-> 🧠 A cada dia aprendendo mais e mais. Aprender, para mim é uma fascinação.<br>
+> 🧠 "Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." Leonardo da Vinci.<br>
