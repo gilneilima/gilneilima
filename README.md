@@ -29,5 +29,8 @@
   <a href = "mailto:gilneilima.rj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gilnei-lima-64468a104" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+</br>
 
-
+> 🎓 Bacharel em Sistemas de Informação pela Faculdade de Filosofia, Ciências e Letras de Duque de Caxias - FFCLDC.<br>
+> 📚 Residente do Programa de Residência Tecnológica da Região Serrana-RJ. SERRATEC.<br>
+> 🧠 A cada dia aprendendo mais e mais. Aprender, para mim é uma fascinação.<br>
