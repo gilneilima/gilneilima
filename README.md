@@ -1,9 +1,15 @@
 ## hello world! 😉 Eu sou Gilnei Lima.
 
+<div style="display: flex">
+<img src = "https://komarev.com/ghpvc/?username=gilneilima&label=Profile%20views&color=gray" alt="gilneilima"  style="float:right, margin-right:10px"/>
+<img src="https://img.shields.io/github/followers/gilneilima?label=Follow&color=gray" alt="gilneilima" style="float:left" />
+</div>
+</br>
+
 <div>
   <a href="https://github.com/gilneilima">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gilneilima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilneilima&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gilneilima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilneilima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
