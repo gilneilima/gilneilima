@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/gilneilima">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gilneilima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilneilima&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gilneilima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilneilima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
