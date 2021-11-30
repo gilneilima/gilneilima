@@ -1,5 +1,8 @@
 # Hello world! 😉 Eu sou Gilnei Lima.
 ## 🧗‍♂️ Um Dev em desenvolvimento. 🏋️
+> 🧠 *"Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."* Leonardo da Vinci.<br>
+##
+
 
 <div style="display: flex">
   <img src = "https://komarev.com/ghpvc/?username=gilneilima&label=Profile%20views&color=gray" alt="gilneilima"  style="float:right, margin-right:10px"/>
@@ -44,4 +47,4 @@
 
 > 📚 Residente do SERRATEC - Programa de Residência Tecnológica da Região Serrana-RJ.<br>
 > 🎓 Bacharel em Sistemas de Informação pela Faculdade de Filosofia, Ciências e Letras de Duque de Caxias - FFCLDC.<br>
-> 🧠 "Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." Leonardo da Vinci.<br>
+> 🤖 *"A verdadeira medida de um homem não é sua inteligência ou quão alto ele sobe neste sistema esquisito. Não, a verdadeira medida de um homem é esta: com que rapidez ele consegue responder às necessidades dos outros e quanto de si mesmo ele consegue dar."* Philip K. Dick
